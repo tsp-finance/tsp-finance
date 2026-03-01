@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.tsp.finance/logo/light-128x128.svg" alt="TSP Logo" width="96" />
+<img src="./light-128x128.svg" alt="TSP Logo" width="96" />
 
 # Trading System Platform
 
